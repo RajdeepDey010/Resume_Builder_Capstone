@@ -1,4 +1,4 @@
-# Resume Builder[https://resume-builder-app-project.netlify.app/]
+# [Resume Builder](https://resume-builder-app-project.netlify.app/)
 Capstone Project @ Almabetter
 
 ## Introduction
