@@ -14,6 +14,17 @@
   padding: 5px 30px;
 }
 
+.homeIcon{
+  text-decoration: none;
+}
+
+.homeIcon h4{
+  font-size: 2rem;
+  width: max-content;
+  color: rgb(70, 70, 70);
+}
+
+
 .nav-links {
   display: flex;
   align-items: center;
@@ -38,7 +49,9 @@
 
 .active {
   color: whitesmoke;
+  text-decoration: none;
 }
+
 .MuiToolbar-root.MuiToolbar-regular {
   width: 100%;
   display: flex;
